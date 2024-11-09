@@ -1,2 +1,2 @@
 # CAN-Devices
-2 CAN related PCBs for the FRC space
+This project serves to create 2 CAN-related PCBs for the FRC space, and I welcome everyone in the community to use these designs for their robots and customize them in whatever way they want. However, I do ask that the community refrain from selling boards made from this design, and I would prefer for teams to leave on the silkscreen markings of my design (but feel free to add your own)
